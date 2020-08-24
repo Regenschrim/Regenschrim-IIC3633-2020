@@ -1,4 +1,4 @@
-# Lectura 2
+# Lectura 1 - 2
 
 En la entrada del blog, Simón explica cual fue el razonamiento que se siguió para llegar a obtener el rendimiento que les aseguró el tercer lugar en el concurso de Netflix.
 

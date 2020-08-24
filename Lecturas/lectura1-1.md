@@ -1,4 +1,4 @@
-# Lectura 1
+# Lectura 1 - 1 
 
 En este paper básicamente se hace una comparación entre los *item-based collaborative filtering algorithms* y los *user-based collaborative filtering algorithms*, además de proponer un nuevo esquema para los algortimos *item-based*. Para esto se realizaron diversos experimentos para obtener valores óptimos para los parámetros de cada algoritmo, de forma que los resultados fueran comparables. Por otro lado, se evidencia el efecto de cambiar estos parámetros al dejar los otros constantes en cuanto a calidad de recomendaciones y rendimiento del algoritmo.
 

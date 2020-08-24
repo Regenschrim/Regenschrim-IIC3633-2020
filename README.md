@@ -4,4 +4,4 @@ Estudiante: Marcelo Escudero
 
 Contenidos:
 - Carpeta con críticas de lecturas obligatorias
-- Carpeta con prácticos realizados
+- Carpeta con prácticos realizados. Link: https://github.com/PUC-RecSys-Class/RecSysPUC-2020/tree/master/practicos
